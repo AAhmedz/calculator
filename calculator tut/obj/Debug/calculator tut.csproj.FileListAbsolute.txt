@@ -1,0 +1,10 @@
+E:\2nd year 2T\MMedia\calculator tut\bin\Debug\calculator tut.exe.config
+E:\2nd year 2T\MMedia\calculator tut\bin\Debug\calculator tut.exe
+E:\2nd year 2T\MMedia\calculator tut\bin\Debug\calculator tut.pdb
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator tut.csproj.AssemblyReference.cache
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator_tut.Form1.resources
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator_tut.Properties.Resources.resources
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator tut.csproj.GenerateResource.cache
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator tut.csproj.CoreCompileInputs.cache
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator tut.exe
+E:\2nd year 2T\MMedia\calculator tut\obj\Debug\calculator tut.pdb
